@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M72WK6tOjy8hxLObCdl2aEkv2Dfrpr45vf3CC5CuuXc=",
+  "Source": "loja-api",
+  "BasePath": "_content/loja-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
