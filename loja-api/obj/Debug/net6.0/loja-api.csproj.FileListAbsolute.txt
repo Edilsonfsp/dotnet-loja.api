@@ -1,3 +1,10 @@
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.csproj.AssemblyReference.cache
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.GeneratedMSBuildEditorConfig.editorconfig
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.AssemblyInfoInputs.cache
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.AssemblyInfo.cs
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.csproj.CoreCompileInputs.cache
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.MvcApplicationPartsAssemblyInfo.cs
+W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.MvcApplicationPartsAssemblyInfo.cache
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\appsettings.Development.json
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\appsettings.json
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\appsettings.MemoryBD.json
@@ -33,13 +40,6 @@ W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\System.CodeDom.dll
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\System.Text.Json.dll
 W:\git\loja-dotnet\loja-api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.csproj.AssemblyReference.cache
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.GeneratedMSBuildEditorConfig.editorconfig
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.AssemblyInfoInputs.cache
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.AssemblyInfo.cs
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.csproj.CoreCompileInputs.cache
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.MvcApplicationPartsAssemblyInfo.cs
-W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\loja-api.MvcApplicationPartsAssemblyInfo.cache
 W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\staticwebassets\msbuild.loja-api.Microsoft.AspNetCore.StaticWebAssets.props
 W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\staticwebassets\msbuild.build.loja-api.props
 W:\git\loja-dotnet\loja-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.loja-api.props

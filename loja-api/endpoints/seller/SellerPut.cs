@@ -1,4 +1,4 @@
-﻿using loja_api.infra.data;
+﻿using infra.data.efcore;
 using Microsoft.AspNetCore.Mvc;
 
 namespace loja_api.endpoints.seller;

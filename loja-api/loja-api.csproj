@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>loja-api</RootNamespace>
+    <RootNamespace>loja_api</RootNamespace>
 		<DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
 		<DockerfileContext>.</DockerfileContext>
 		<UserSecretsId>2c1ae28d-8260-4307-a186-d64b30d4bf22</UserSecretsId>

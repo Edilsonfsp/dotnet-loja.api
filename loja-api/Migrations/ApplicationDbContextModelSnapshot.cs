@@ -3,13 +3,13 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using loja_api.infra.data;
+using infra.data.efcore;
 
 #nullable disable
 
 namespace loja_api.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+  [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

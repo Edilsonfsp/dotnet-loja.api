@@ -4,13 +4,13 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using loja_api.infra.data;
+using infra.data.efcore;
 
 #nullable disable
 
 namespace loja_api.Migrations
 {
-    [DbContext(typeof(ApplicationDbContext))]
+  [DbContext(typeof(ApplicationDbContext))]
     [Migration("20230428231420_firstMigration")]
     partial class firstMigration
     {

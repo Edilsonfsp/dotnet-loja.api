@@ -1,5 +1,5 @@
-﻿using loja_api.domain.customer;
-using loja_api.infra.data;
+﻿using infra.data.efcore;
+using loja_api.domain.customer;
 using Microsoft.AspNetCore.Mvc;
 
 namespace loja_api.endpoints.customer;

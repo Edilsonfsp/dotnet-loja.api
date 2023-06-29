@@ -1,5 +1,4 @@
-﻿using loja_api.domain.customer;
-using loja_api.infra.data;
+﻿using infra.data.efcore;
 
 namespace loja_api.endpoints.customer;
 
