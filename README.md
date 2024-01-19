@@ -1,6 +1,6 @@
 # Meu Projeto
 
-Este projeto é uma API para cadastro de usuário do curso de Progamação em Java da Escola SENAI "Almirante Tamandaré".
+Este projeto é uma API para controle de vendas de uma loja."
 
 <!-- 
 ![projeto](https://user-images.githubusercontent.com/131220482/235494139-1d4675a9-cca5-4a3a-a926-a2f857d1f434.png)
@@ -53,11 +53,10 @@ including versions of Lorem Ipsum.
 
 ## Tecnologias Utilizadas
 
-- ``Spring Boot 4.0.0``
-- ``Java jdk 21``
-- ``JPA``
-- ``H2``
-- ``JDBC``
+- ``Dotnet 7``
+- ``C#``
+- ``EntityFrameworkCore 7.0.1``
+- ``MySql``
 
 ## Pessoas Desenvolvedoras do Projeto
 
